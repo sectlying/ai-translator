@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-ai-translator-custom",
+	"id": "obsidian-ai-translator",
 	"name": "AI 翻译助手",
-	"version": "3.0.0",
+	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "AI 翻译插件，支持任意 OpenAI 兼容 API。弹窗显示翻译结果，支持连续翻译、离焦消失、可拖拽定位。",
-	"author": "YourName",
-	"authorUrl": "",
+	"description": "AI 翻译插件，可用于翻译笔记、阅读PDF，支持任意 OpenAI 兼容 API。",
+	"author": "sectlying",
+	"authorUrl": "https://github.com/sectlying",
 	"isDesktopOnly": false
 }
