@@ -1,9 +1,9 @@
 {
 	"id": "obsidian-ai-translator",
-	"name": "AI 翻译助手",
-	"version": "1.0.0",
+	"name": "AI Translator",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "AI 翻译插件，可用于翻译笔记、阅读PDF，支持任意 OpenAI 兼容 API。",
+	"description": "AI translation plugin for notes and PDFs, supporting any OpenAI-compatible API.",
 	"author": "sectlying",
 	"authorUrl": "https://github.com/sectlying",
 	"isDesktopOnly": false
