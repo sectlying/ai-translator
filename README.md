@@ -9,7 +9,6 @@ An Obsidian AI translation plugin that works with any OpenAI-compatible API.
 - **弹窗翻译 / Popup Translation** — 独立弹窗显示翻译结果，不影响正文，支持选中复制 / Translation results in a standalone popup; supports selection and copying
 - **PDF 支持 / PDF Support** — 在 PDF 视图中选中文本即可翻译 / Translate selected text directly in PDF views
 - **连续翻译 / Continuous Translation** — 选中内容变化时自动重新翻译（PDF 下自动防抖） / Automatically re-translate when selection changes (built-in debounce for PDF)
-- **离焦消失 / Dismiss on Blur** — 点击弹窗外部自动关闭 / Close the popup by clicking outside it
 
 - **OpenAI 兼容 / OpenAI Compatible** — 手动配置 API 地址、Key、模型名称 / Manually configure API endpoint, key, and model name
 - **思考模式 / Thinking Mode** — 支持 `enable_thinking`，适配推理模型 / Supports `enable_thinking` for reasoning models
