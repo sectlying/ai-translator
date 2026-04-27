@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-ai-translator-custom",
+	"name": "AI 翻译助手",
+	"version": "3.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "AI 翻译插件，支持任意 OpenAI 兼容 API。弹窗显示翻译结果，支持连续翻译、离焦消失、可拖拽定位。",
+	"author": "YourName",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}

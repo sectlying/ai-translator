@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Obsidian user data (contains API keys)
+data.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

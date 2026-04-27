@@ -1,0 +1,42 @@
+{
+	"plugin-name": "AI 翻译助手",
+
+	"cmd-translate": "翻译选中文本",
+	"menu-translate": "翻译选中文本",
+	"notice-select-first": "请先选中要翻译的文本",
+
+	"popup-title": "AI 翻译",
+	"popup-translating": "翻译中...",
+	"popup-continuous": "连续翻译",
+	"popup-dismiss-focus": "离焦消失",
+	"popup-error": "翻译失败: ",
+
+	"setting-title": "AI 翻译设置",
+	"setting-api": "API 配置",
+	"setting-api-url": "API 地址",
+	"setting-api-url-desc": "兼容 OpenAI 接口的 Base URL，例如 https://api.xiaomimimo.com/v1",
+	"setting-api-key": "API Key",
+	"setting-api-key-desc": "你的 API 密钥",
+	"setting-model": "模型名称",
+	"setting-model-desc": "例如 mimo-v2.5、gpt-4o、qwen-plus 等",
+	"setting-thinking": "启用思考模式",
+	"setting-thinking-desc": "开启推理/思考模式（需要模型支持）",
+	"setting-translation": "翻译设置",
+	"setting-prompt": "系统提示词",
+	"setting-prompt-desc": "用于翻译的提示词，控制目标语言和风格",
+	"setting-prompt-placeholder": "你是一个专业的翻译助手...",
+	"setting-popup": "弹窗行为",
+	"setting-continuous": "连续翻译",
+	"setting-continuous-desc": "选中文本变化时自动翻译",
+	"setting-dismiss": "离焦自动关闭",
+	"setting-dismiss-desc": "点击弹窗外部时自动关闭弹窗",
+	"setting-reset-pos": "重置弹窗位置",
+	"setting-reset-pos-desc": "将弹窗位置恢复为默认位置",
+	"setting-reset-btn": "重置",
+	"notice-pos-reset": "弹窗位置已重置",
+
+	"err-no-key": "未配置 API Key，请在插件设置中填写",
+	"err-no-model": "未配置模型名称，请在插件设置中填写",
+	"err-api": "API 错误: ",
+	"err-no-result": "API 未返回翻译结果"
+}

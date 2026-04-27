@@ -1,0 +1,42 @@
+{
+	"plugin-name": "AI Translator",
+
+	"cmd-translate": "Translate Selection",
+	"menu-translate": "Translate Selection",
+	"notice-select-first": "Please select text to translate first",
+
+	"popup-title": "AI Translate",
+	"popup-translating": "Translating...",
+	"popup-continuous": "Continuous",
+	"popup-dismiss-focus": "Dismiss on blur",
+	"popup-error": "Translation failed: ",
+
+	"setting-title": "AI Translator Settings",
+	"setting-api": "API Configuration",
+	"setting-api-url": "API Base URL",
+	"setting-api-url-desc": "OpenAI-compatible base URL, e.g. https://api.xiaomimimo.com/v1",
+	"setting-api-key": "API Key",
+	"setting-api-key-desc": "Your API key",
+	"setting-model": "Model",
+	"setting-model-desc": "e.g. mimo-v2.5, gpt-4o, qwen-plus",
+	"setting-thinking": "Enable Thinking",
+	"setting-thinking-desc": "Enable reasoning/thinking mode (requires model support)",
+	"setting-translation": "Translation",
+	"setting-prompt": "System Prompt",
+	"setting-prompt-desc": "Prompt used for translation. Controls target language and style.",
+	"setting-prompt-placeholder": "You are a professional translation assistant...",
+	"setting-popup": "Popup Behavior",
+	"setting-continuous": "Continuous Translation",
+	"setting-continuous-desc": "Automatically translate when text selection changes",
+	"setting-dismiss": "Dismiss on Focus Loss",
+	"setting-dismiss-desc": "Close popup when clicking outside it",
+	"setting-reset-pos": "Reset Popup Position",
+	"setting-reset-pos-desc": "Restore popup position to default",
+	"setting-reset-btn": "Reset",
+	"notice-pos-reset": "Popup position reset",
+
+	"err-no-key": "API Key not configured. Please set it in plugin settings.",
+	"err-no-model": "Model not configured. Please set it in plugin settings.",
+	"err-api": "API Error: ",
+	"err-no-result": "No content returned from API"
+}
